@@ -76,5 +76,4 @@ preprocessing, ANN model building, training, and evaluation.
 
 ---
 
-Created by: Your Name
 
